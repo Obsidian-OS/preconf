@@ -1,0 +1,10 @@
+# TheOddCell's config
+# Licence: Unlicence
+# Description: Config's I use for my personal hyprland setup
+# --- System creation ---
+PACKAGES="base linux linux-firmware networkmanager sudo vim nano efibootmgr python squashfs-tools arch-install-scripts base-devel git zsh hyprland kitty hyprpaper waybar wofi firefox ttf-cascadia-code"
+TIMEZONE="America/Toronto" # Olson Timezone
+# --- User Creation ---
+ADMIN_USER="odd" # Creates an user with the wheel group and adds the wheel group to the sudoers file.
+ADMIN_DOTFILES="https://github.com/TheOddCell/dotfiles.git" # A git repo with dotfiles that will copy to your home directory
+ADMIN_DOTFILES_TYPE="HOME" # Type of dotfile repo.
