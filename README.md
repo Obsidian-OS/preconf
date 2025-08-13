@@ -9,4 +9,3 @@ Rules:
 # Licence: MIT Licence
 # Description: Dotfiles and packages I use for my personal hyprland setup.
 ```
-3. Do not use the settings BUILD_DIR, OUTPUT_SFS, and ROOT_HAVEPASSWORD.
