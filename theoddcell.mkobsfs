@@ -1,3 +1,6 @@
+# TheOddCell's ObsidianOS config
+# Licence: Unlicence
+# Description: Dotfiles and packages I use for my personal hyprland setup.
 # --- System creation ---
 BUILD_DIR="obsidian_rootfs" # SquashFS generation directory
 PACKAGES="base linux linux-firmware networkmanager sudo vim nano efibootmgr python squashfs-tools arch-install-scripts base-devel git zsh hyprland kitty hyprpaper waybar wofi firefox ttf-cascadia-code pv gptfdisk" # Packages to install
