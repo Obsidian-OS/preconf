@@ -7,7 +7,7 @@ PACKAGES="base linux linux-headers linux-firmware gnome-boxes networkmanager zsh
 OUTPUT_SFS="system.sfs" # Output SquashFS
 TIMEZONE="America/Toronto" # Olson Timezone
 SERVICES="NetworkManager gdm"
-HOSTNAME="obsidianbtw"
+HOSTNAME="Obsidian"
 YAY_GET="obsidianctl-git dms-shell-git"
 CUSTOM_SCRIPTS_DIR="" # Path to a directory containing custom shell scripts, including a main.sh script.
 # If provided, these scripts will be copied into the chroot environment, made executable, and main.sh will be executed within the chroot.
